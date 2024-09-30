@@ -1,1 +1,3 @@
 Report: https://drive.google.com/file/d/1hmqpJPBGSsM5rLwEuJns791shKwMLApN/view?usp=sharing
+
+This project analyzes how stay-at-home orders during COVID-19 affected energy consumption in New York City buildings. A detailed comparison of energy use across multifamily housing, offices, and educational buildings between 2019 and 2020 has been conducted. Using regression models and feature ranking techniques like ElasticNet and Dominance Analysis, key factors are identified that influenced energy changes, such as building density, function, and population. The study explores the potential for long-term reductions in energy consumption due to remote work trends.
